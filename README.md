@@ -77,12 +77,14 @@ const street = '学海中路';		//街、路
 
 1. **务必遵守疫情防控、法律法规、校规！**
 2. 至少正常请假一次，本脚本才能运行。
-3. 脚本只是修改了本地数据，没有对服务器上的数据进行操作。
-4. **仅供交流学习，一切责任由使用者自负，与作者无关。**
+3. 脚本没有对服务器上的数据进行操作。
+4. **仅供交流学习，请在下载后24小时内删除。一切责任由使用者自负，与作者无关。**
 
 ## Quantumult X配置
 [rewrite]
 ```
+ 脚本: getList.js
+
  类型: script-response-body
 
  url: ^https://student\.wozaixiaoyuan\.com/leave2/getList\.json
@@ -98,12 +100,14 @@ const street = '学海中路';		//街、路
 
 1. **务必遵守疫情防控、法律法规、校规！**
 2. 至少正常请假一次，本脚本才能运行。
-3. 脚本只是修改了本地数据，没有对服务器上的数据进行操作。
-4. **仅供交流学习，一切责任由使用者自负，与作者无关。**
+3. 脚本没有对服务器上的数据进行操作。
+4. **仅供交流学习，请在下载后24小时内删除。一切责任由使用者自负，与作者无关。**
 
 ## Quantumult X配置
 [rewrite]
 ```
+ 脚本: getLeave.js
+
  类型: script-response-body
 
  url: ^https://student\.wozaixiaoyuan\.com/leave2/getLeave\.json
